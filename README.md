@@ -6,7 +6,7 @@ Els cursos estan alliberats sota una llicència Creative Commons.
 
 Els autors d'aquests cursos són:
 
-Sergi Tur Badenas: http://acacha.dyndns.org/mediawiki
+Sergi Tur Badenas
 Lluís Pérez Vidal
 Josep Vilaplana Pastó
 
